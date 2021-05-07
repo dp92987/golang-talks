@@ -10,3 +10,4 @@ Subscribe to Telegram channel [Oh My Go!](https://t.me/ohmygolang) to stay updat
 
 - Talks
     - [2019](/talks/2019.md)
+    - [2021](/talks/2021.md)
